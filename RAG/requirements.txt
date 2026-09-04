@@ -1,0 +1,6 @@
+numpy
+ollama
+python-dotenv 
+pypdf
+tiktoken
+pypdf

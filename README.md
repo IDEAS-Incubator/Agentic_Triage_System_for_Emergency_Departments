@@ -1,6 +1,13 @@
 # Agentic_Triage_System_for_Emergency_Departments
 Agentic AI Triage System for Emergency Departments
 
+Git repo:
+https://github.com/IDEAS-Incubator/Agentic_Triage_System_for_Emergency_Departments
+
+Project management:
+https://3.basecamp.com/3109643/projects/48310857
+
+
 Executive Summary
 
 Emergency department (ED) triage is a high-stakes, time-pressured decision made with incomplete information. Nurses assign a triage acuity level (e.g., ESI in the US, CTAS in Canada) within minutes of arrival, often before lab results, prior encounters, or medication history are reviewed. Under-triage delays care for deteriorating patients; over-triage consumes scarce resuscitation and monitoring capacity.
