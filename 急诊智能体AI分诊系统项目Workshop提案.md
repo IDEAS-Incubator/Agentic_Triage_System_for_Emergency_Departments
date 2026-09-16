@@ -1,10 +1,11 @@
-**题目：**
 
-**两次 Workshop，带你从零拆解一个真正的 Healthcare Agentic AI 项目**
-
-**副标题：**
+**Project 标题：**
 
 **Healthcare + Agentic AI + Multi-Agent + RAG + HL7/FHIR + AI Safety/Compliance**
+
+**多次 Workshop，带你从零拆解一个真正的 Healthcare Agentic AI 项目**
+
+
 
 **内容：**
 
