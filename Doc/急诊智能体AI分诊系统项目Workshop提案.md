@@ -196,39 +196,39 @@ Healthcare AI 和普通 Chatbot 最大的区别之一，就是：
 
 **如何从一个真实 Business Problem 出发，设计一个完整的 Agentic AI System。**
 
-从：
+            从：
 
-**Healthcare Workflow**
+            **Healthcare Workflow**
 
-到
+            到
 
-**HL7 / FHIR Data Integration**
+            **HL7 / FHIR Data Integration**
 
-到
+            到
 
-**RAG**
+            **RAG**
 
-到
+            到
 
-**Multi-Agent Architecture**
+            **Multi-Agent Architecture**
 
-到
+            到
 
-**LLM Reasoning**
+            **LLM Reasoning**
 
-到
+            到
 
-**Verification Agent**
+            **Verification Agent**
 
-到
+            到
 
-**Guardrails**
+            **Guardrails**
 
-再到
+            再到
 
-**Human-in-the-loop + Security + Compliance + Evaluation**
+            **Human-in-the-loop + Security + Compliance + Evaluation**
 
-这才是一个完整的 AI Engineering Project。
+            这才是一个完整的 AI Engineering Project。
 
 **🚀 两次 Workshop，一起挑战一个真正的 Agentic AI 项目**
 
